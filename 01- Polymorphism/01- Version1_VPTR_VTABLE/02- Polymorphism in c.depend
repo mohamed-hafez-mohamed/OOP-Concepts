@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1615802847 source:f:\02- embedded systems\05- miro samk course\01- test\04- oop tests\03- polymorphism\02- c\02- polymorphism in c\rectangle_program.c
+	"STD_TYPES.h"
+	"BIT_MATH.h"
+	"RECTANGLE_interface.h"
+	"RECTANGLE_config.h"
+	"RECTANGLE_private.h"
+
+1612533893 f:\02- embedded systems\05- miro samk course\01- test\04- oop tests\03- polymorphism\02- c\02- polymorphism in c\std_types.h
+
+1597406362 f:\02- embedded systems\05- miro samk course\01- test\04- oop tests\03- polymorphism\02- c\02- polymorphism in c\bit_math.h
+	"STD_TYPES.h"
+
+1612629756 f:\02- embedded systems\05- miro samk course\01- test\04- oop tests\03- polymorphism\02- c\02- polymorphism in c\rectangle_interface.h
+	"SHAPE_interface.h"
+
+1615809443 f:\02- embedded systems\05- miro samk course\01- test\04- oop tests\03- polymorphism\02- c\02- polymorphism in c\shape_interface.h
+
+1612537926 f:\02- embedded systems\05- miro samk course\01- test\04- oop tests\03- polymorphism\02- c\02- polymorphism in c\rectangle_config.h
+
+1612625257 f:\02- embedded systems\05- miro samk course\01- test\04- oop tests\03- polymorphism\02- c\02- polymorphism in c\rectangle_private.h
+
+1615803037 source:f:\02- embedded systems\05- miro samk course\01- test\04- oop tests\03- polymorphism\02- c\02- polymorphism in c\shape_program.c
+	"STD_TYPES.h"
+	"BIT_MATH.h"
+	"SHAPE_interface.h"
+	"SHAPE_config.h"
+	"SHAPE_private.h"
+
+1615799847 f:\02- embedded systems\05- miro samk course\01- test\04- oop tests\03- polymorphism\02- c\02- polymorphism in c\shape_config.h
+
+1612630310 f:\02- embedded systems\05- miro samk course\01- test\04- oop tests\03- polymorphism\02- c\02- polymorphism in c\shape_private.h
+
+1615804994 source:f:\02- embedded systems\05- miro samk course\01- test\04- oop tests\03- polymorphism\02- c\02- polymorphism in c\circle_program.c
+	"STD_TYPES.h"
+	"BIT_MATH.h"
+	"CIRCLE_interface.h"
+	"CIRCLE_config.h"
+	"CIRCLE_private.h"
+
+1615804961 f:\02- embedded systems\05- miro samk course\01- test\04- oop tests\03- polymorphism\02- c\02- polymorphism in c\circle_interface.h
+	"SHAPE_interface.h"
+
+1615803916 f:\02- embedded systems\05- miro samk course\01- test\04- oop tests\03- polymorphism\02- c\02- polymorphism in c\circle_config.h
+
+1615803916 f:\02- embedded systems\05- miro samk course\01- test\04- oop tests\03- polymorphism\02- c\02- polymorphism in c\circle_private.h
+
+1615804856 source:f:\02- embedded systems\05- miro samk course\01- test\04- oop tests\03- polymorphism\02- c\02- polymorphism in c\main.c
+	<stdio.h>
+	<stdlib.h>
+	"STD_TYPES.h"
+	"BIT_MATH.h"
+	"RECTANGLE_interface.h"
+	"CIRCLE_interface.h"
+
